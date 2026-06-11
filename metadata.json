@@ -1,0 +1,6 @@
+{
+  "name": "Groundlink III",
+  "description": "High-fidelity roster extractor, overtime tracker, shift-trades locator, and custom pay estimator built for Groundlink aviation personnel, operating locally with secure SQLite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
